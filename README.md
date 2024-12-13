@@ -13,7 +13,7 @@ This is a personal portfolio website for KM Aminul Islam, showcasing skills, pro
 
 ## Demo
 
-You can view the live demo of the portfolio [here](https://your-portfolio-url.com).
+You can view the live demo of the portfolio [here](https://kmaminul.me).
 
 ## Features
 
@@ -33,4 +33,4 @@ You can view the live demo of the portfolio [here](https://your-portfolio-url.co
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/aminulislamontor/portfolio
